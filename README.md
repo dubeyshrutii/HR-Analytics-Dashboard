@@ -90,7 +90,7 @@ Source: Kaggle Internal HR dataset
 
 🎥 Dashboard Demo
 
-(Replace your-gif-link.gif with the uploaded file name path)
+![HR dashboard(1)-Excel 2025-06-25 15-14-10.gif](https://github.com/dubeyshrutii/HR-Analytics-Dashboard/blob/6dc82eee3411dce5df949aa8ad3e9b1c139e009e/HR%20dashboard%20(1)%20-%20Excel%202025-06-25%2015-14-10.gif)
 
 💡 Business Recommendations
 - Focus on employee engagement for younger demographics (31–40 age group)
