@@ -2,9 +2,8 @@
 
 ### 📌 Project Objective
 
-HR departments often manage large volumes of employee data but lack visual and interactive tools to analyze it efficiently. 
-This can lead to missed insights in areas like workforce diversity, attrition trends,recruitment sources, and employee performance.
-This Excel dashboard project aims to transform raw HR data into a visually interactive dashboard, allowing HR managers and analysts to:
+ HR departments often manage large volumes of employee data but lack visual and interactive tools to analyze it efficiently. This can lead to missed insights in areas like workforce        diversity, attrition trends,recruitment sources, and employee performance.
+ This Excel dashboard project aims to transform raw HR data into a visually interactive dashboard, allowing HR managers and analysts to:
 
 - ✅ Understand employee demographics
 - 📈 Monitor department performance
@@ -22,27 +21,31 @@ This Excel dashboard project aims to transform raw HR data into a visually inter
 📂 Dataset
 Source: Kaggle Internal HR dataset
 
-🔹 Tools Used
- - Microsoft Excel: Data Cleaning,Pivot tables,
+ ## 🔹 Tools Used
+   
+   Microsoft Excel :
+ - Data Cleaning (removing blanks, duplicates, formatting dates, fixing column names)
+ - Pivot Tables (for aggregating data and calculating KPIs)
+ - Pivot Charts (bar, donut, radar)
+ - Dark Theme Dashboard Design (custom formatting for a Power BI–style layout)
 
-🧪 Data Preparation Steps
+## 🧪 Data Preparation Steps
 - Cleaned and formatted the HR dataset
 - Created pivot tables for metrics (active/inactive workers, marital status, project count, etc.)
 - Built KPI cards, donut charts, and bar graphs in a clean, dark UI layout
 - Created a "Search" sheet to search employee details by name using pivot filters
 
-📊 Dashboard Structure
+## 📊 Dashboard Structure
 
-1️⃣ Dashboard Sheet
-
-  Interactive visuals like:
+ 1️⃣ Dashboard Sheet
+ 
 - Total employees, gender breakdown, active/inactive status
 - Marital status count, department and manager overview
 - Pie chart for satisfaction levels
 - Performance and recruitment source bar charts
 - Filter buttons to slice data by Year, Nationality, Location
 
-2️⃣ Search Sheet
+ 2️⃣ Search Sheet
  
    Enter an employee name to view:
  - Age
@@ -53,11 +56,11 @@ Source: Kaggle Internal HR dataset
  - Employment Year
  - Status
 
-3️⃣ Analysis Sheet
+ 3️⃣ Analysis Sheet
 
 - Contains pivot tables used to power dashboard metrics
 
-4️⃣ HRDataset Sheet
+ 4️⃣ HRDataset Sheet
 
 - Cleaned dataset used for analysis
 
@@ -90,9 +93,9 @@ Source: Kaggle Internal HR dataset
 
 🎥 Dashboard Demo
 
-![HR dashboard(1)-Excel 2025-06-25 15-14-10.gif](https://github.com/dubeyshrutii/HR-Analytics-Dashboard/blob/6dc82eee3411dce5df949aa8ad3e9b1c139e009e/HR%20dashboard%20(1)%20-%20Excel%202025-06-25%2015-14-10.gif)
+![HR dashboard (1) - Excel 2025-06-25 15-14-10.gif](https://github.com/dubeyshrutii/HR-Analytics-Dashboard/blob/6dc82eee3411dce5df949aa8ad3e9b1c139e009e/HR%20dashboard%20(1)%20-%20Excel%202025-06-25%2015-14-10.gif)
 
-💡 Business Recommendations
+## 💡 Business Recommendations
 - Focus on employee engagement for younger demographics (31–40 age group)
 - Enhance employee performance programs for those in "Needs Improvement"
 - Leverage recruitment channels like Indeed & LinkedIn for bulk hiring
