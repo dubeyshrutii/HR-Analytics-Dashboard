@@ -1,6 +1,6 @@
-### 🧾 HR Analytics Dashboard – Excel Project
+## 🧾 HR Analytics Dashboard – Excel Project
 
-### 📌 Project Objective
+## 📌 Project Objective
 
  HR departments often manage large volumes of employee data but lack visual and interactive tools to analyze it efficiently. This can lead to missed insights in areas like workforce        diversity, attrition trends,recruitment sources, and employee performance.
  This Excel dashboard project aims to transform raw HR data into a visually interactive dashboard, allowing HR managers and analysts to:
